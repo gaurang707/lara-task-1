@@ -1,4 +1,4 @@
-# 🚀 Laravel 10 – Project & Task Management
+# 🚀 Laravel 10 – Project & Task Listing
 
 A simple and scalable Laravel 10 application demonstrating clean architecture, Eloquent relationships, CRUD operations, DataTables, and API integration.
 
